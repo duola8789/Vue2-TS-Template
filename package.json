@@ -22,7 +22,7 @@
         "echarts": "^4.6.0",
         "element-ui": "^2.4.5",
         "gcoord": "^0.2.3",
-        "lodash-es": "^4.17.15",
+        "lodash-es": "^4.17.21",
         "vue": "^2.6.10",
         "vue-property-decorator": "^8.3.0",
         "vue-router": "^3.1.3",
